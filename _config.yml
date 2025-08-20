@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "default"
 title                    : "Mohammad Malekpouri | AI & Genetics Researcher"
 title_separator          : "-"
 name                     : &name "Mohammad Malekpouri"
@@ -13,18 +13,18 @@ repository               : "malekpouri/malekpouri.github.io"
 author:
   avatar           : "profile1.jpg"
   name             : "Mohammad Malekpouri"
-  pronouns         :  
+  # pronouns         :  
   bio              : "A dedicated software engineer and researcher passionate about applying AI and machine learning to the fascinating world of genetics and computational biology."
   location         : "Iran, Bnd"
-  employer         : ""
-  uri              : 
+  # employer         : ""
+  # uri              : 
   email            : "malekpoor@aut.ac.ir" 
 
   # Academic websites
-  googlescholar    : "" # اگر لینک داری می‌تونم اضافه کنم
+  # googlescholar    : "" # اگر لینک داری می‌تونم اضافه کنم
   orcid            : "https://orcid.org/0009-0001-6278-6163"
-  researchgate     : ""
-  scopus           : ""
+  # researchgate     : ""
+  # scopus           : ""
 
   # Repositories and software development
   github           : "malekpouri"
@@ -32,8 +32,8 @@ author:
   # Social media
   linkedin         : "malekpouri"
   bluesky          : "malekpouri.bsky.social"
-  twitter          : ""  
-  telegram         : ""  
+  # twitter          : ""  
+  # telegram         : ""  
 
 # Publication Category
 publication_category:
