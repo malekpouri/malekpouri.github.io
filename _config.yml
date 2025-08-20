@@ -11,7 +11,7 @@ repository               : "malekpouri/malekpouri.github.io"
 
 # Site Author - Sidebar Info
 author:
-  avatar           : "profile1.jpg"
+  avatar           : "profile.png"
   name             : "Mohammad Malekpouri"
   # pronouns         :  
   bio              : "A dedicated software engineer and researcher passionate about applying AI and machine learning to the fascinating world of genetics and computational biology."
@@ -144,16 +144,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 # Defaults
