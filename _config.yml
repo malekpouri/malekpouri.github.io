@@ -11,7 +11,7 @@ repository               : "malekpouri/malekpouri.github.io"
 
 # Site Author - Sidebar Info
 author:
-  avatar           : "profile.png"
+  avatar           : "profile1.jpg"
   name             : "Mohammad Malekpouri"
   pronouns         :  
   bio              : "A dedicated software engineer and researcher passionate about applying AI and machine learning to the fascinating world of genetics and computational biology."
@@ -79,7 +79,7 @@ social:
     - "https://github.com/malekpouri"
     - "https://www.linkedin.com/in/malekpouri"
     - "https://orcid.org/0009-0001-6278-6163"
-    - "https://bsky.app/profile/malekpouri.bsky.social"
+    - "https://bsky.app//malekpouri.bsky.social"
 
 # Analytics
 analytics:
@@ -163,7 +163,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_: true
       read_time: true
       comments: false
       share: true
@@ -173,13 +173,13 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_: true
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_: true
       share: true
       comments: false
   - scope:
@@ -187,7 +187,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_: true
       share: true
       comments: false
   - scope:
@@ -195,7 +195,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_: true
       share: true
       comment: false
   - scope:
@@ -203,7 +203,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_: true
       share: true
 
 # Sass/SCSS
